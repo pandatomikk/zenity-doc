@@ -1,7 +1,7 @@
 # zenity-doc
 personal doc for zenity
 
-Exporter les sortie en string
+### Exporter les sortie en string
 ```
 bash
 var=$(zenity --error --title "Wrong password" --text="Mauvais mot de passe)
