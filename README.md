@@ -8,6 +8,7 @@ var=$(zenity --error --title "Wrong password" --text="Mauvais mot de passe)
 
 ```
 --width=000 --height=000 --no-wrap
+
      Redimensionnement de fenêtres
 ```
 bash
@@ -15,6 +16,7 @@ zenity --error --title "Wrong password" --width=100 --height=100 --no-wrap --tex
 ```
 
 --extra-button=""
+
      ajout de boutton
 ```
 bash
